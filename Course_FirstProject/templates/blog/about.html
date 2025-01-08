@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}О нас{% endblock title %}
+{% block title_h1 %}{{ block.super }} - О нас{% endblock title_h1 %}
+
+{% block content %}
+
+{% if experience < 5 %}
+<h2>Сотрудник {{ name }} работает меньше 5ти лет.</h2>
+{% else %}
+<h2>Сотрудник {{ name }} работает 5ть или больше лет.</h2>
+{% endif %}
+
+{% endblock content %}

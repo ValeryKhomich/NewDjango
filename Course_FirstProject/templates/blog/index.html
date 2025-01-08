@@ -1,0 +1,12 @@
+<h2>Список пользователей</h2>
+
+
+{% if user_list %}
+<ul>
+{% for i in user_list %}
+<li>{{ i.name }}</li>
+{% endfor %}
+</ul>
+{% else %}
+<h2>Пользователей нет</h2>
+{% endif %}

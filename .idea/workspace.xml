@@ -1,30 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="52779af8-d306-4307-a62d-352d971de16d" name="Changes" comment="" />
+    <list default="true" id="52779af8-d306-4307-a62d-352d971de16d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/Course_FirstProject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/Course_FirstProject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/Course_FirstProject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/Course_FirstProject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/Course_FirstProject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/blog/static/images/pngtree-landscape-jpg-wallpapers-free-download-image_2573540.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/templates/blog/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_FirstProject/templates/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/blog/static/css/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/blog/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/blog/post/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/blog/post/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NewDjango.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NewDjango.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2qvUKXFhJXOZUctBjDiRTZfI60L" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "django__learning"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.Python tests for blog.tests.AboutpageTests.test_url_exists_at_correct_location.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for blog.tests.HomepageTests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for blog.tests.HomepageTests.test_url_exists_at_correct_location.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.AboutpageTests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.AboutpageTests.test_url_exists_at_correct_location.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.HomepageTests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.HomepageTests.test_url_exists_at_correct_location.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NewDjango.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/valery/Python/NewDjango&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysite" />
+      <recent name="$PROJECT_DIR$/Course_FirstProject/templates/blog" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.NewDjango">
+    <configuration name="NewDjango" type="PythonConfigurationType" factoryName="Python">
+      <module name="NewDjango" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (NewDjango)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysite/manage.py" />
+      <option name="PARAMETERS" value="runserver 8082" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for blog.tests.AboutpageTests.test_url_exists_at_correct_location" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="NewDjango" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course_FirstProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;blog.tests.AboutpageTests.test_url_exists_at_correct_location&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for blog.tests.HomepageTests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="NewDjango" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course_FirstProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;blog.tests.HomepageTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for blog.tests.HomepageTests.test_url_exists_at_correct_location" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="NewDjango" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course_FirstProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;blog.tests.HomepageTests.test_url_exists_at_correct_location&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.AboutpageTests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="NewDjango" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course_FirstProject/blog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.AboutpageTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.AboutpageTests.test_url_exists_at_correct_location" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="NewDjango" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course_FirstProject/blog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.AboutpageTests.test_url_exists_at_correct_location&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.NewDjango" />
+      <item itemvalue="Python tests.Python tests for blog.tests.AboutpageTests.test_url_exists_at_correct_location" />
+      <item itemvalue="Python tests.Python tests for blog.tests.HomepageTests" />
+      <item itemvalue="Python tests.Python tests for blog.tests.HomepageTests.test_url_exists_at_correct_location" />
+      <item itemvalue="Python tests.Python tests for tests.AboutpageTests" />
+      <item itemvalue="Python tests.Python tests for tests.AboutpageTests.test_url_exists_at_correct_location" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for blog.tests.HomepageTests" />
+        <item itemvalue="Python tests.Python tests for blog.tests.HomepageTests.test_url_exists_at_correct_location" />
+        <item itemvalue="Python tests.Python tests for tests.AboutpageTests.test_url_exists_at_correct_location" />
+        <item itemvalue="Python tests.Python tests for blog.tests.AboutpageTests.test_url_exists_at_correct_location" />
+        <item itemvalue="Python tests.Python tests for tests.AboutpageTests" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,5 +243,8 @@
       <updated>1735542478445</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
